@@ -28,6 +28,7 @@ class MimePart
 
 	/** @internal */
 	const EOL = "\r\n";
+
 	const LINE_LENGTH = 76;
 
 	/** @var array */
